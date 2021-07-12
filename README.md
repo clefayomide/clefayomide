@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Victor Olorunfemi Ayomide
+- 👋 Hi, I’m Olorunfemi Victor Ayomide
 - 👀 I’m interested in Front-end web development
 - 🌱 I’m currently learning HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on Front-end web projects
