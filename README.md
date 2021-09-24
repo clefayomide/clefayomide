@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Olorunfemi Victor Ayomide
 - 👀 I’m interested in Front-end web development
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🌱 Technologies I've been working with lately: react.js, JavaScript, HTML, CSS
 - 💞️ I’m looking to collaborate on Front-end web projects
 - 📫 How to reach me. victorayomide32@gmail.com
                       Twitter: @olorunfemivic18
