@@ -15,7 +15,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=clefayomide&theme=dark)
 
 ## Languages Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clefayomide)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clefayomide)](https://github.com/clefayomide/github-readme-stats)
 
 ![visitors](https://komarev.com/ghpvc/?username=clefayomide)
 
