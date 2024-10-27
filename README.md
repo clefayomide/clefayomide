@@ -1,5 +1,5 @@
 # About me
-- 👋 Hi there, Welcome to my profile. My name is Victor and i'm a Software Engineer with experience in Frontend Engineering. A user centered Frontend Engineer who is comfortable working with JavaScript, React.js, and other various frontend web technologies to deliver and transform business ideas into an exceptional scalable, accessible, responsive, and user friendly full stack web application following the Test Driven Development (TDD), Software Development Life Cycle (SDLC), and Component Driven Development (CDD) Methodologies. I am looking to leverage my experience to solve interesting problems and build functional software solutions that delight the end-user. During my free time, I spend time creating [frontend toolings](https://www.npmjs.com/settings/clefayomide/packages).
+- 👋 Hi there, Welcome to my profile. My name is Victor and I'm a full-stack software engineer passionate about creating solutions that address real-world problems. I focus on performance, scalability, and enhancing user and developer experience, with expertise in building both client-side and server-side applications using JavaScript and TypeScript. Currently, I'm also exploring Python.
 
 - I am also interested in working on open source projects
 
