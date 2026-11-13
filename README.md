@@ -1,5 +1,5 @@
 # About me
-- 👋 Hi there, Welcome to my profile. My name is Victor and I'm a full-stack software engineer passionate about creating solutions that address real-world problems. I focus on performance, scalability, and enhancing user and developer experience, with expertise in building both client-side and server-side applications using JavaScript and TypeScript. Currently, I'm also exploring Python.
+- 👋 Hi there, Welcome to my profile. My name is Victor and I'm a full-stack software engineer passionate about creating solutions that address real-world problems. I focus on performance, scalability, and enhancing user and developer experience, with expertise in building both client-side and server-side applications using JavaScript and TypeScript. Currently, I'm also exploring Java.
 
 - I am also interested in working on open source projects
 
